@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94 70 134 8331']
-global.premium = ['+94 70 134 8331']
-global.ownernomer = '+94 70 134 8331'
+global.owner = ['94701348331']
+global.premium = ['94701348331']
+global.ownernomer = '94701348331'
 global.ownername = 'Sasindu'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
@@ -29,7 +29,7 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
+global.packname = '😆💔'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
